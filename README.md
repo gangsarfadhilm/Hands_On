@@ -4,8 +4,8 @@ Project belajar
 ya gitu lah intinya
 
 <p align="center">
-  <img src="./asset/timeline%20profit.png" alt="Timeline Profit">
+  <img src="./asset/timeline profit.PNG" alt="Timeline Profit">
   <br>
-  <img src="./asset/yes.jpg" alt="Yes">
+  <img src="./asset/yes.jpeg" alt="Yes">
 </p>
 
